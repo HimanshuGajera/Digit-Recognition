@@ -4,8 +4,8 @@ Digit recognition system identifies a hand-witten digits to respective integer v
 
 **Snapshots:**
 
-<img src="Images/ss_1.png" height=700 width=500>
+<img src="Images/ss_1.png">
 
-<img src="Images/ss_2.png" height=700 width=500>
+<img src="Images/ss_2.png">
 
-<img src="Images/ss_3.png" height=700 width=500>
+<img src="Images/ss_3.png">
